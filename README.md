@@ -1,0 +1,2 @@
+# Retail-Sales-Analytics-Using-Google-BigQuery-and-SQL
+Developed a retail sales analytics project using Google BigQuery and SQL to analyze customer and order data. Created tables and queries using JOINs, CTEs, aggregate functions, and window functions. Analyzed monthly revenue, top customers, city-wise sales, category performance, growth trends, and running totals, and created views for reporting.
